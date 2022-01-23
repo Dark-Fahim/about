@@ -1,0 +1,71 @@
+#about{
+    height: 700px;
+    width: auto;
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: 2px  2px 5px #777;
+}
+.wc-text{
+    font-size: 14px;
+    font-family: "Roboto",sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2.1px;
+    font-weight: normal;
+    margin-bottom: 12px;
+    color: #222;
+
+}
+.person{
+    width: auto;
+    height: 100%;
+}
+.name{
+    font-size: 48px;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+    color: #222;
+}
+.person img{
+    height: 100%;
+    width: auto;
+    border-radius: 10px;
+}
+.person-ditails{
+    font-family: "Roboto",sans-serif;
+    max-width: 540px;
+    color: #777;
+    margin-bottom: 40px;
+}
+h5{
+    ont-size: 16px;
+    font-weight: 500;
+    font-family: "Roboto",sans-serif;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    color: #222;
+}
+p i{
+    margin-right: 5px;
+}
+.other{
+    font-size: 16px;
+    color: #777;
+}
+.social{
+    margin-top: 30px;
+}
+.social a span{
+    font-size: 16px;
+    color: #fff;
+    background-color: #e8e8e8;
+    border-radius: 25px;
+    padding: 10px 13px;
+    transition: all .5s;
+    margin-right: 20px;
+}
+.social a:hover span{
+    background-image: linear-gradient(
+        0deg
+        ,#766dff 0%,#88f3ff 100%);
+        color: #fff;
+}
